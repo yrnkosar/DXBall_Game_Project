@@ -1,5 +1,6 @@
 # DXBall_Game_Project
- Microcontroller-based game project
+Microcontroller-based game project
+
 Projemiz, DX-Ball tarzında bir oyun makinesi geliştirmeyi amaçlamaktadır ve bu proje Arduino IDE ile Proteus programları kullanılarak oluşturulmuştur.
 
 Oyunda, oyuncu bir fiziksel palet kontrol cihazını kullanarak topu yönlendirir ve OLED ekrandaki tuğlaları kırmaya çalışır. Palet kontrolü, potansiyometre ile sağlanmaktadır. Oyun başladığında, OLED ekranda "Başlat" ve "Çıkış" seçeneklerinin bulunduğu bir menü görülür. Menüyü kontrol etmek için Proteus devresine bağlanmış üç buton kullanılır: biri yukarı, diğeri aşağı, üçüncüsü ise seçim yapma butonudur. Oyuncu "Başlat" seçeneğine bastığında "Oyun Başlıyor…" mesajı görüntülenir ve birinci seviyeye geçilir. "Çıkış" seçeneği seçildiğinde ise "Oyunumuza gösterdiğiniz ilgi için teşekkür ederiz." mesajı gösterilir ve oyun sonlanır.
